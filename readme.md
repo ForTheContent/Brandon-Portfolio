@@ -2,4 +2,6 @@
 Hi I am Brandon and I go to Mcintosh High School
 
 ## Contents
-- [resume](Resume.MD)
+- [Resume](Resume.MD)
+- [BinaryTable](BinaryTable.md)
+- [ 
